@@ -18,8 +18,7 @@ struggling* throughout the cohort, so don't do that!
 3. [Install Node](http://nodejs.org/download/)
 4. [Install Chrome](https://www.google.com/intl/en/chrome/browser/)
 5. [Install Homebrew](http://brew.sh/)
-6. [Install Bower](http://bower.io/#install-bower)
-7. [Sign up for GitHub](https://github.com/)
+6. [Sign up for GitHub](https://github.com/)
 
 ## Learn the front-end languages
 
